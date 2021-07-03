@@ -24,6 +24,8 @@ Zwischen ["result"] und ["title"] musste noch die uid ["27708327"] eingetragen w
    
 
 ## 4. Was ist JupyterLab?
+JupyterLab ist eine Weiterentwicklung von Jupyter Notebook. Das klassische Jupyter Notebook, welches seit 2011 zur Verfügung steht, ist nur schwierig anpass- und erweiterbar. In JupyterLab können neben den bereits bekannten Notebooks auch Texteditoren, Terminals und weitere benutzerdefinierte Komponenten innerhalb einer flexiblen Benutzeroberfläche mit mehreren Registerkarten verwendet werden. Es ist im Vergleich zum ursprünglichen Juypter Notebook um Funktionalitäten angereichert, unter anderem besteht z.B. die Möglichkeit einzelne Notebook Zellen per Drag and Drop an eine andere Stelle oder in ein anderes Notebook zu verschieben. 
+
 
 
 ## 5. Was ist der große Unterschied zwischen den Webframeworks flask und Django?
