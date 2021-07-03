@@ -29,3 +29,5 @@ JupyterLab ist eine Weiterentwicklung von Jupyter Notebook. Das klassische Jupyt
 
 
 ## 5. Was ist der große Unterschied zwischen den Webframeworks flask und Django?
+Das Webframework Flask wurde entwickelt, um einen schnellen und einfachen Einstieg bieten zu können und richtet sich  vor allem an EinsteigerInnen. Flask stellt keine eigenen Bibliotheken oder Tools zur Verfügung, sondern überlässt es dem/der NutzerIn Bibliotheken und Tools auszuwählen, die er/sie miteinbinden möchte. 
+Django wurde entwickelt, um EntwicklerInnen zu unterstützen, Anwendungen möglichst schnell fertig zu stellen. Es richtet sich deswegen eher an erfahrenere Entwickler. Im Gegensatz zu Flask sind bereits Bibliotheken und Tools mit eingebunden. 
